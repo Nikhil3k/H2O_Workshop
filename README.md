@@ -34,4 +34,4 @@ Rules
 * Be skunky  
 
 
-![NEU AI Skunkworks](logos/smartypants_skunk_4.jpg)
+![NEU AI Skunkworks](logos/smartypants_skunk_4_sm.jpg)
