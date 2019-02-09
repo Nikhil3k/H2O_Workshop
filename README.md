@@ -1,4 +1,4 @@
-# H2O Workshop for NEU Skunkworks
+# H2O Workshop for NEU AI Skunkworks
 
 
 ```bash 
@@ -19,3 +19,19 @@ Add notebooks on:
 * Decision tree surrogate models   
 
 
+## About NEU AI Skunkworks
+
+NEU AI Skunkworks Mission & Creed
+
+NEU AI Skunkworks is a group of people who research and develop Artificial Intelligence, Machine Learning, and Deep Learning projects primarily for the sake of innovation and learning. We provide open-mic, mentorship, workshops, seminars, hack-a-thons, and events that assist those exploring the edges of AI.
+
+Rules
+* Have a growth and innovative mindset  
+* Be passionate about something  
+* Educate yourself and others  
+* Be an active member  
+* Respect your peers  
+* Be skunky  
+
+
+![NEU AI Skunkworks](logos/smartypants_skunk_4.jpg)
