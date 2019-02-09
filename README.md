@@ -8,6 +8,9 @@ sudo pip install -f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.htm
 
 ```
 
+Some of these tutorials are modifications and extensions of H2O AI's learning materials from [https://github.com/h2oai/h2o-tutorials](https://github.com/h2oai/h2o-tutorials) 
+
+
 To do:
 
 Add notebooks on:
