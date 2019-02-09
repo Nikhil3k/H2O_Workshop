@@ -4,7 +4,7 @@
 ```bash 
 
 sudo pip uninstall h2o
-sudo pip3 install -f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.html h2o
+sudo pip install -f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.html h2o
 
 ```
 
